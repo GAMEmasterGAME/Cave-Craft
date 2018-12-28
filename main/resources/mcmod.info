@@ -1,0 +1,16 @@
+[
+{
+  "modid": "",
+  "name": "Cave Craft",
+  "description": "The Cavecraft mod. Explore caves,new dimensions. And create a ELECTRIC items.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gamemastermods"],
+  "credits": "For me :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
